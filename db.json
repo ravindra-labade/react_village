@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "sr": "1",
+      "village": "Bhatodi",
+      "population": "8000",
+      "head": "Mr Labade",
+      "id": 1
+    },
+    {
+      "sr": "2",
+      "village": "Pargaon",
+      "population": "3000",
+      "head": "Mr Shinde",
+      "id": 2
+    }
+  ]
+}
